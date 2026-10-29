@@ -1,3 +1,5 @@
 # DevTask Hub
 
-This is the feature branch version of the project.
+This project demonstrates Git branching and merge conflict resolution.
+
+The main branch and feature branch changes have been reviewed and combined.
